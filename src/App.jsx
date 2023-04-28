@@ -3,8 +3,8 @@ import { TwitterFollowCard } from './TwitterFollowCard'
 
 const users = [
     {
-      userName: 'midudev',
-      name: 'Miguel Ángel Durán',
+      userName: 'Sergio',
+      name: 'Sergio Marin',
       isFollowing: true
     },
     {

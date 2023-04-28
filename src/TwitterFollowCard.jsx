@@ -23,7 +23,7 @@ export function TwitterFollowCard ({ children , userName , initialisFollowing}){
             <img 
                 className='tw-followCard-avatar' 
                 src={`https://unavatar.io/${userName}`} 
-                alt="El avatar de midudev}" />
+                alt="El avatar de Sergio}" />
             <div className='tw-followCard-info'>
                 <strong>{children}</strong>
                 <span className='tw-followCard-infoUserName'>
